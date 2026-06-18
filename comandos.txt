@@ -1,0 +1,26 @@
+$ git init
+
+$ git config user.name bernardoeder881
+
+$ git config user.email bernardoeder881@gmail.com
+
+$ git remote add origin https://github.com/bernardoeder881/AULA-04.git
+
+$ git branch -M main
+
+$ git status
+
+$ git add .
+
+$ git commit -m "inicializa o repositório"
+
+$ git push origin main
+
+python -m venv venv
+source ./venv/Scripts/activate
+
+matplotlib
+pandas
+numpy
+pip install matplotlib
+pip install numpy
